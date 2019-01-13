@@ -1,4 +1,4 @@
-# Cours Docker/Kubernetes ECE
+# Cours Docker/Kubernetes
 #### By
 ##### Laurent Grangeau & Arthur Mauvezin
 
